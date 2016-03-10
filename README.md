@@ -2,6 +2,7 @@
 
 ## 学习类 ##
 
+<<<<<<< HEAD
 1. ES5\ES6
 1. NodeJS
 1. React
@@ -9,6 +10,13 @@
 1. angularjs
 1. Grunt\Gulp
 1. SASS\LESS
+=======
+1. React
+1. webpack
+1. angularjs
+2. Grunt\Gulp
+3. SASS\LESS
+>>>>>>> be696e8ed535bad8f09787865a63e27bebc6343a
 
 ## 开源项目 ##
 
